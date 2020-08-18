@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232144602588",
+    "firebase_url": "https://day20200624ex85chatting.firebaseio.com",
+    "project_id": "day20200624ex85chatting",
+    "storage_bucket": "day20200624ex85chatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232144602588:android:9a295e0bcaf96844bafb19",
+        "android_client_info": {
+          "package_name": "com.jasonoh.day0624ex85firebasechatting01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232144602588-81qeekdh89an89o3k18v7ok0e5qhh610.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmt0cKNLhF8nLOfWJkT7s570_hJ5Rlz7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232144602588-81qeekdh89an89o3k18v7ok0e5qhh610.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
